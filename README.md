@@ -1,2 +1,2 @@
 # RAD
-Rapid Assembly and Design
+This repository includes code for two RAD (Rapid Assembly and Design) projects. Both projects used C++ and Arduino. The Shoelacinator, a show tying machine, was completed in first semester. The code moves motors attached to hooks that methodically tie the laces of a shoe. The QuietStart, a wearable vibrating alarm clock, was completed in second semester. The code measures the heartbeat of the wearer and activites multiple vibration motor if the user's heart rate is too low or high or if it is the pre-set time for the user to wake up.
